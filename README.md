@@ -1,2 +1,2 @@
 # AURORA
-A knowledge intelligence system that transforms web resources into structured, searchable, connected knowledge.
+AURORA is designed as a source-aware knowledge system where every resource retains origin, relationships, context, and evidence.
